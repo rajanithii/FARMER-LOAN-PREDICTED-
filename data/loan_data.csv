@@ -1,0 +1,41 @@
+loan_id,farmer_name,age,land_area_acres,annual_income,crop_type,loan_amount,loan_tenure_months,previous_loans,repayment_history,soil_quality,irrigation_type,state,credit_score,rainfall_mm,avg_temp_celsius,default
+1,Ramesh Kumar,45,5.2,85000,Rice,50000,24,2,Good,High,Canal,Tamil Nadu,680,950,28,0
+2,Suresh Patel,38,3.1,60000,Wheat,30000,18,1,Good,Medium,Borewell,Maharashtra,720,750,26,0
+3,Lakshmi Devi,52,8.0,120000,Cotton,80000,36,3,Poor,High,Canal,Andhra Pradesh,590,650,30,1
+4,Mohan Singh,41,2.5,45000,Maize,25000,12,0,Good,Low,Rainfed,Punjab,710,600,24,0
+5,Priya Nair,35,6.3,95000,Rice,60000,24,1,Good,High,Canal,Kerala,740,2800,27,0
+6,Arun Sharma,60,1.8,30000,Vegetables,15000,12,4,Poor,Low,Rainfed,Rajasthan,520,350,32,1
+7,Kavitha Raj,48,4.7,72000,Sugarcane,70000,48,2,Good,Medium,Drip,Tamil Nadu,660,900,29,0
+8,Vijay Yadav,55,9.2,140000,Soybean,90000,36,3,Good,High,Canal,Madhya Pradesh,700,1100,27,0
+9,Geeta Devi,43,2.0,38000,Vegetables,20000,18,5,Poor,Low,Rainfed,Bihar,480,1050,28,1
+10,Ravi Teja,37,5.8,88000,Groundnut,55000,24,1,Good,Medium,Borewell,Telangana,695,800,30,0
+11,Anitha Kumari,50,3.4,52000,Cotton,40000,24,2,Poor,Medium,Rainfed,Karnataka,560,700,29,1
+12,Selvam Murugan,44,7.1,108000,Rice,75000,36,1,Good,High,Canal,Tamil Nadu,730,980,28,0
+13,Bhaskar Reddy,39,4.0,65000,Maize,45000,24,2,Good,Medium,Borewell,Andhra Pradesh,670,720,31,0
+14,Saroja Bai,57,1.5,28000,Wheat,18000,18,6,Poor,Low,Rainfed,Uttar Pradesh,450,850,27,1
+15,Naresh Gupta,42,6.5,99000,Soybean,65000,30,1,Good,High,Canal,Maharashtra,715,800,26,0
+16,Devaki Ammal,61,2.2,35000,Vegetables,22000,12,3,Poor,Low,Rainfed,Tamil Nadu,510,920,29,1
+17,Kiran Kumar,33,8.4,125000,Cotton,100000,48,0,Good,High,Drip,Gujarat,760,600,31,0
+18,Meena Sundaram,46,3.8,58000,Rice,38000,24,2,Good,Medium,Canal,Tamil Nadu,640,940,28,0
+19,Jayavel Raj,54,5.0,76000,Sugarcane,60000,36,4,Poor,Medium,Borewell,Tamil Nadu,580,910,29,1
+20,Pooja Yadav,40,4.2,68000,Wheat,42000,24,1,Good,Medium,Canal,Haryana,690,650,25,0
+21,Murugesh Pillai,49,6.0,91000,Groundnut,58000,30,2,Good,High,Drip,Tamil Nadu,705,930,29,0
+22,Kamala Devi,58,1.2,24000,Vegetables,12000,12,7,Poor,Low,Rainfed,Bihar,420,1020,28,1
+23,Senthil Kumar,36,7.5,112000,Rice,82000,36,0,Good,High,Canal,Tamil Nadu,750,960,28,0
+24,Gowri Shankar,53,3.5,54000,Cotton,35000,24,3,Poor,Low,Rainfed,Karnataka,545,680,30,1
+25,Rajkumar Patil,47,5.5,84000,Soybean,55000,30,1,Good,Medium,Borewell,Maharashtra,680,770,27,0
+26,Usha Rani,64,1.0,20000,Vegetables,10000,12,8,Poor,Low,Rainfed,Odisha,400,1400,29,1
+27,Prasad Babu,38,6.8,103000,Maize,70000,36,0,Good,High,Canal,Telangana,735,820,30,0
+28,Savitri Devi,55,2.8,44000,Wheat,28000,18,4,Poor,Low,Rainfed,Uttar Pradesh,490,830,27,1
+29,Arumugam Raja,44,7.3,111000,Rice,78000,36,2,Good,High,Canal,Tamil Nadu,720,955,28,0
+30,Hemavathi Bai,51,3.0,48000,Cotton,32000,24,3,Poor,Medium,Rainfed,Karnataka,555,690,30,1
+31,Deepak Nair,35,9.0,135000,Coconut,95000,48,0,Good,High,Drip,Kerala,770,2900,27,0
+32,Lalitha Devi,62,1.7,27000,Vegetables,14000,12,6,Poor,Low,Rainfed,Bihar,435,1000,28,1
+33,Saravanan M,41,5.3,81000,Groundnut,52000,24,1,Good,Medium,Borewell,Tamil Nadu,672,915,29,0
+34,Bhavani Ammal,56,2.4,39000,Rice,25000,18,5,Poor,Low,Rainfed,Tamil Nadu,500,880,29,1
+35,Gopal Krishna,43,6.2,96000,Sugarcane,72000,36,2,Good,High,Canal,Uttar Pradesh,698,900,28,0
+36,Malathi Sundari,48,4.5,70000,Wheat,48000,30,2,Good,Medium,Canal,Punjab,658,620,24,0
+37,Thangavel P,57,3.3,51000,Cotton,33000,24,4,Poor,Low,Rainfed,Tamil Nadu,488,870,30,1
+38,Radha Krishna,39,7.8,118000,Rice,85000,36,0,Good,High,Canal,West Bengal,745,1600,28,0
+39,Sumathi Raj,52,2.6,41000,Vegetables,21000,12,5,Poor,Low,Rainfed,Tamil Nadu,475,890,29,1
+40,Venkatesh Rao,46,5.7,87000,Maize,58000,30,1,Good,Medium,Borewell,Andhra Pradesh,688,740,31,0
